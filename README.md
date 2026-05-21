@@ -20,8 +20,7 @@ Users can:
 - View prediction results
 - Analyze water quality visually using GIS maps
 
----
----
+--
 
 ## 🌐 Live Demo
 
