@@ -65,3 +65,24 @@ requirements.txt
 ---
 
 Created by Revanth Settipalli
+
+---
+
+# Screenshots
+
+## Premium GIS Map
+![Premium GIS Map](screenshots/Water%20Quality%20Location%20.png)
+
+## Confusion Matrix
+![Confusion Matrix](screenshots/Confusion%20Matrix.png)
+
+## ROC Curve
+![ROC Curve](screenshots/ROC%20Curve.png)
+
+## Water Parameters
+![Water Parameters](screenshots/Water%20Parameters.png)
+
+## Water Risk Meter
+![Water Risk Meter](screenshots/Water%20risk%20meter.png)
+
+---
