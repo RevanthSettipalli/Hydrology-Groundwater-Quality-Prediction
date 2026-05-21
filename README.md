@@ -21,6 +21,17 @@ Users can:
 - Analyze water quality visually using GIS maps
 
 ---
+---
+
+## 🌐 Live Demo
+
+Run directly using Google Colab:
+
+[Open in Colab](https://colab.research.google.com/)
+
+Notebook:
+```bash
+groundwater_quality_prediction.ipynb
 
 ## 🚀 Features
 
